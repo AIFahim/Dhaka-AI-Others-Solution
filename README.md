@@ -4,13 +4,13 @@
 
 <hr>
 
- ### This Repo Contains Teams Presented Solution's Poster and Team Mirage Solution
- ### Resources Collected from :  https://dhaka-ai.com/posters
+ ## This Repo Contains Teams Presented Solution's Poster and Team Mirage Solution
+ ## Resources Collected from :  https://dhaka-ai.com/posters
  
  <hr>
 
 
-#### [Dhaka AI Traffic  Challenge](https://dhaka-ai.com/index) Datasets Link :
+## [Dhaka AI Traffic  Challenge](https://dhaka-ai.com/index) Datasets Link :
    - [ Competition Dataset ](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/POREXF)
    - [ YoloV5 Formatted Dataset ](https://www.kaggle.com/aifahim/dhakaaiyoloformatteddataset)
 
